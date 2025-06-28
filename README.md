@@ -71,13 +71,29 @@
 
 ## 🌈 Cores
 
-| Cor                | Hexadecimal |
-| ------------------ | ----------- |
-| Cinza Escura 1     | `#a9a9a9`   |
-| Cinza Clara        | `#d3d3d3`   |
-| Cinza Neutra       | `#808080`   |
-| Cinza Escura 2     | `#333333`   |
-| Preta Transparente | `#00000081` |
+ | Cor                | Hexadecimal |
+ | ------------------ | ----------- |
+ | Cinza Escura 1     | `#A9A9A9`   |
+ | Cinza Clara        | `#D3D3D3`   |
+ | Cinza Neutra       | `#808080`   |
+ | Cinza Escura 2     | `#333333`   |
+ | Preta Transparente | `#00000081` |
+
+
+## 🔤 Fontes Tipográficas
+
+ - **Cordel Rustika**  
+   Exemplo de uso:  
+   `font-family: "cordel";` ou 
+   `font-family: var(--font-titulo);`
+ - **Sriracha**  
+   Exemplo de uso:  
+   `font-family: "Sriracha", cursive;` ou 
+   `font-family: var(--font-manual);`
+ - **Arial, Sans-Serif**  
+   Exemplo de uso:  
+   `font-family: "Arial", "sans-serif";` ou 
+   `font-family: var(--font-padrao);`
 
 
 ## 🌟 Referências de Uso

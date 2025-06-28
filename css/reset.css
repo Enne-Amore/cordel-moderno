@@ -31,9 +31,9 @@ a {
 
 /* Variáveis CSS */
 :root {
-    --font-padrao: 'Arial', 'sans-serif';
-    --fonte-titulo: 'cordel';
-    --font-manual: 'Sriracha', cursive;
+    --font-padrao: "Arial", "sans-serif";
+    --fonte-titulo: "cordel";
+    --font-manual: "Sriracha", cursive;
 }
 
 /* Estilização da barrinha de rolagem */
