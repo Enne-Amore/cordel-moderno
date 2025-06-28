@@ -6,7 +6,12 @@
 
 ## 🌐 Aplicação Hospedada
 
- [Clique aqui para acessar o website](https://enne-amore.github.io/Cordel-Moderno/)
+ [Clique aqui para acessar o website](https://enne-amore.github.io/cordel-moderno/)
+
+
+## 🎞️ Pré-visualização
+
+ <img src="img/preview.gif" alt="Pré-visualização do site" width="340" height="200">
 
 
 ## ⚡ Funcionalidades
@@ -35,12 +40,14 @@
  │   ├── style.css       
  ├── docs/                   # Arquivos de documentação do projeto
  │   ├── autorias.txt
+ │   ├── preview.mp4
  ├── fonts/                  # Arquivos das fontes utilizadas  
  │   ├── cordel-rustika/
  ├── img/                    # Imagens utilizadas 
  │   ├── background001.jpg
  │   ├── background002.jpg
  │   ├── icone.png
+ │   ├── preview.gif
  ├── js/                     # Arquivos JavaScript
  │   ├── topo.js
  ├── index.html              # Arquivo principal de renderização
@@ -74,9 +81,9 @@
  | Cor                | Hexadecimal |
  | ------------------ | ----------- |
  | Cinza Escura 1     | `#A9A9A9`   |
+ | Cinza Escura 2     | `#333333`   |
  | Cinza Clara        | `#D3D3D3`   |
  | Cinza Neutra       | `#808080`   |
- | Cinza Escura 2     | `#333333`   |
  | Preta Transparente | `#00000081` |
 
 
@@ -99,8 +106,8 @@
 ## 🌟 Referências de Uso
 
  - [Freepik](https://www.freepik.com)
- - [www.flaticon.com'](https://www.flaticon.com/br/)
- - [Poema De Milton Duarte](https://www.recantodasletras.com.br/poesias/3186743)
+ - [www.flaticon.com](https://www.flaticon.com/br/)
+ - [Poema de Milton Duarte](https://www.recantodasletras.com.br/poesias/3186743)
  
 
 ## 🔧 Suporte
