@@ -25,10 +25,6 @@ a {
     text-decoration: none;
 }
 
-:focus-visible {
-    outline: auto;
-}
-
 /* Variáveis CSS */
 :root {
     --font-padrao: "Arial", "sans-serif";
