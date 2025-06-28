@@ -4,37 +4,39 @@
  Mais um desafio proposto por Gustavo Guanabara com a temática "Cordel Moderno". Esse site se concentra em aplicar o efeito parallax simples o qual é feito usando as CSS.
 
 
-## 🪄 Funcionalidades
+## 🌐 Aplicação Hospedada
+
+ [Clique aqui para acessar o website](https://enne-amore.github.io/Cordel-Moderno/)
+
+
+## ⚡ Funcionalidades
  
  - Mais acessibilidade usando a tecla "tab"
  - Efeitos de "hover" e de "active" nos elementos clicáveis
  - Botão de voltar ao topo da página
 
 
-## ✅ Demonstração
-
- [Clique aqui para acessar o meu site](https://enne-amore.github.io/Cordel-Moderno/)
-
-
 ## 🚀 Tecnologias Utilizadas
 
- - HTML
- - CSS
- - JavaScript
+ <p align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/2048px-Official_CSS_Logo.svg.png" title="CSS" alt="CSS" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+ </p>
 
 
-## 🌈 Documentação De Cores
+## 🌈 Cores
 
-| Cor                     | Hexadecimal                                                            |
-| ----------------------- | ---------------------------------------------------------------------- |
-| Cinza Escura 1          | ![#a9a9a9](https://via.placeholder.com/10/a9a9a9?text=+) #a9a9a9       |
-| Cinza Clara             | ![#d3d3d3](https://via.placeholder.com/10/d3d3d3?text=+) #d3d3d3       |
-| Cinza Neutra            | ![#808080](https://via.placeholder.com/10/808080?text=+) #808080       |
-| Cinza Escura 2          | ![#333333](https://via.placeholder.com/10/333333?text=+) #333333       |
-| Preta Transparente      | ![#00000081](https://via.placeholder.com/10/00000081?text=+) #00000081 |
+| Cor                | Hexadecimal |
+| ------------------ | ----------- |
+| Cinza Escura 1     | `#a9a9a9`   |
+| Cinza Clara        | `#d3d3d3`   |
+| Cinza Neutra       | `#808080`   |
+| Cinza Escura 2     | `#333333`   |
+| Preta Transparente | `#00000081` |
 
 
-## 🌟 Referências De Uso
+## 🌟 Referências de Uso
 
  - [Freepik](https://www.freepik.com)
  - [www.flaticon.com'](https://www.flaticon.com/br/)
@@ -43,4 +45,5 @@
 
 ## 🔧 Suporte
 
- Para me contatar como suporte, o meu email é EnneFofe10@gmail.com 
+ Para me contatar como suporte, o meu email é [Enne.Pessoa@gmail.com](mailto:Enne.Pessoa@gmail.com)
+
