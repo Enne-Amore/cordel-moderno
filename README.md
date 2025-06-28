@@ -25,6 +25,29 @@
  </p>
 
 
+## 📂 Estrutura do Projeto
+
+ ```plaintext
+ cordel-moderno/
+ ├── css/                    # Arquivos CSS
+ │   ├── reset.css       
+ │   ├── responsive.css  
+ │   ├── style.css       
+ ├── docs/                   # Arquivos de documentação do projeto
+ │   ├── autorias.txt
+ ├── fonts/                  # Arquivos das fontes utilizadas  
+ │   ├── cordel-rustika/
+ ├── img/                    # Imagens utilizadas 
+ │   ├── background001.jpg
+ │   ├── background002.jpg
+ │   ├── icone.png
+ ├── js/                     # Arquivos JavaScript
+ │   ├── topo.js
+ ├── index.html              # Arquivo principal de renderização
+ ├── README.md
+ ```
+
+
 ## 🌈 Cores
 
 | Cor                | Hexadecimal |

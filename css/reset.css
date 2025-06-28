@@ -3,7 +3,7 @@
 /* Importação de fonte */
 @font-face {
     font-family: 'cordel';
-    src: url(../fonts/cordel_rustika/Cordel\ Rustika.otf) format(opentype);
+    src: url(../fonts/cordel-rustika/Cordel\ Rustika.otf) format(opentype);
 }
 
 /* Reset nas tags */
