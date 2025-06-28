@@ -4,43 +4,113 @@
  Mais um desafio proposto por Gustavo Guanabara com a temática "Cordel Moderno". Esse site se concentra em aplicar o efeito parallax simples o qual é feito usando as CSS.
 
 
-## 🪄 Funcionalidades
+## 🌐 Aplicação Hospedada
+
+ [Clique aqui para acessar o website](https://enne-amore.github.io/cordel-moderno/)
+
+
+## 🎞️ Pré-visualização
+
+ <img src="img/preview.gif" alt="Pré-visualização do site" width="340" height="200">
+
+
+## ⚡ Funcionalidades
  
  - Mais acessibilidade usando a tecla "tab"
  - Efeitos de "hover" e de "active" nos elementos clicáveis
  - Botão de voltar ao topo da página
 
 
-## ✅ Demonstração
-
- [Clique aqui para acessar o meu site](https://enne-amore.github.io/Cordel-Moderno/)
-
-
 ## 🚀 Tecnologias Utilizadas
 
- - HTML
- - CSS
- - JavaScript
+ <p align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/2048px-Official_CSS_Logo.svg.png" title="CSS" alt="CSS" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+ </p>
 
 
-## 🌈 Documentação De Cores
+## 📂 Estrutura do Projeto
 
-| Cor                     | Hexadecimal                                                            |
-| ----------------------- | ---------------------------------------------------------------------- |
-| Cinza Escura 1          | ![#a9a9a9](https://via.placeholder.com/10/a9a9a9?text=+) #a9a9a9       |
-| Cinza Clara             | ![#d3d3d3](https://via.placeholder.com/10/d3d3d3?text=+) #d3d3d3       |
-| Cinza Neutra            | ![#808080](https://via.placeholder.com/10/808080?text=+) #808080       |
-| Cinza Escura 2          | ![#333333](https://via.placeholder.com/10/333333?text=+) #333333       |
-| Preta Transparente      | ![#00000081](https://via.placeholder.com/10/00000081?text=+) #00000081 |
+ ```plaintext
+ cordel-moderno/
+ ├── css/                    # Arquivos CSS
+ │   ├── reset.css       
+ │   ├── responsive.css  
+ │   ├── style.css       
+ ├── docs/                   # Arquivos de documentação do projeto
+ │   ├── autorias.txt
+ │   ├── preview.mp4
+ ├── fonts/                  # Arquivos das fontes utilizadas  
+ │   ├── cordel-rustika/
+ ├── img/                    # Imagens utilizadas 
+ │   ├── background001.jpg
+ │   ├── background002.jpg
+ │   ├── icone.png
+ │   ├── preview.gif
+ ├── js/                     # Arquivos JavaScript
+ │   ├── topo.js
+ ├── index.html              # Arquivo principal de renderização
+ ├── README.md
+ ```
 
 
-## 🌟 Referências De Uso
+## 🛠️ Instalação Local
+
+ 1. **Clone o repositório**
+ 
+ No terminal, rode o seguinte comando:
+ 
+ ```bash
+ git clone https://github.com/Enne-Amore/cordel-moderno.git
+ ```
+ 
+ 2. **Entre no arquivo "index.html"**
+ 
+ 3. **Rode o arquivo principal de renderização:**
+ 
+ Clique com o botão direito do mouse e selecione a seguinte opção:
+ 
+ ```bash
+ Open with Live Server
+ ```
+
+
+## 🌈 Cores
+
+ | Cor                | Hexadecimal |
+ | ------------------ | ----------- |
+ | Cinza Escura 1     | `#A9A9A9`   |
+ | Cinza Escura 2     | `#333333`   |
+ | Cinza Clara        | `#D3D3D3`   |
+ | Cinza Neutra       | `#808080`   |
+ | Preta Transparente | `#00000081` |
+
+
+## 🔤 Fontes Tipográficas
+
+ - **Cordel Rustika**  
+   Exemplo de uso:  
+   `font-family: "cordel";` ou 
+   `font-family: var(--font-titulo);`
+ - **Sriracha**  
+   Exemplo de uso:  
+   `font-family: "Sriracha", cursive;` ou 
+   `font-family: var(--font-manual);`
+ - **Arial, Sans-Serif**  
+   Exemplo de uso:  
+   `font-family: "Arial", "sans-serif";` ou 
+   `font-family: var(--font-padrao);`
+
+
+## 🌟 Referências de Uso
 
  - [Freepik](https://www.freepik.com)
- - [www.flaticon.com'](https://www.flaticon.com/br/)
- - [Poema De Milton Duarte](https://www.recantodasletras.com.br/poesias/3186743)
+ - [www.flaticon.com](https://www.flaticon.com/br/)
+ - [Poema de Milton Duarte](https://www.recantodasletras.com.br/poesias/3186743)
  
 
 ## 🔧 Suporte
 
- Para me contatar como suporte, o meu email é EnneFofe10@gmail.com 
+ Para me contatar como suporte, o meu email é [Enne.Pessoa@gmail.com](mailto:Enne.Pessoa@gmail.com)
+
